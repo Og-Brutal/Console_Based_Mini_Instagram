@@ -7,7 +7,7 @@ A comprehensive console-based social networking application built with C++ that 
 This is a **C++ console application** that simulates a mini version of Instagram. It demonstrates advanced Object-Oriented Programming, Data Structures & Algorithms (DSA), and software architecture design. The application uses multiple data structures including AVL trees, queues, stacks, and linked lists to manage user data, messaging, and relationships.
 
 **Technology Stack:**
-- C++ (STL, OOP)
+- C++ (STL, OOP) 
 - Visual Studio Project Format
 - Advanced Data Structures (AVL BST, Queue, Stack, Linked Lists)
 - Console-based User Interface
