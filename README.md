@@ -1,4 +1,4 @@
-# 📱 Console-Based Mini Instagram
+# 📱 Console-Based Mini Instagram 
 
 A comprehensive console-based social networking application built with C++ that replicates core Instagram functionality. Features user authentication, follow requests, messaging, posts, notifications, and advanced data structures for efficient user management.
 
