@@ -128,7 +128,7 @@ class Post {
   - string postContext             // Post content
   - Post* next                      // Linked list pointer
 }
-
+ 
 class UserPost {
   - Post* posts                     // Head of linked list
   - pushPost()                      // Add new post
