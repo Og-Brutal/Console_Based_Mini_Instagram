@@ -9,7 +9,7 @@ This is a **C++ console application** that simulates a mini version of Instagram
 **Technology Stack:**
 - C++ (STL, OOP) 
 - Visual Studio Project Format
-- Advanced Data Structures (AVL BST, Queue, Stack, Linked Lists)
+- Advanced Data Structures (AVL BST, Queue, Stack, Linked Lists) 
 - Console-based User Interface
 
 ## ✨ Features
