@@ -11,7 +11,7 @@ public:
 	string dateAndTime;
 	string postContext;
 	int size;
-	Post* next;
+	Post* next; 
 	Post(string dandt, string pc) :dateAndTime(dandt), postContext(pc),next(NULL){} 
 };
 class UserPost {
