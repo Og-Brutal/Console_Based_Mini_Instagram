@@ -7,7 +7,7 @@
 #include <sstream>
 using namespace std;
 class Post {
-public:
+public: 
 	string dateAndTime;
 	string postContext;
 	int size;
