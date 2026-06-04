@@ -15,7 +15,7 @@ public:
 	Post(string dandt, string pc) :dateAndTime(dandt), postContext(pc),next(NULL){} 
 };
 class UserPost {
-	Post* posts;
+	Post* posts; 
 public:
 	UserPost() : posts(NULL){}
 	string getCurrentTime() {
