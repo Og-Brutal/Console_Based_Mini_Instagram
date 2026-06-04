@@ -16,7 +16,7 @@ public:
 };
 class UserPost {
 	Post* posts; 
-public:
+public: 
 	UserPost() : posts(NULL){}
 	string getCurrentTime() {
 		auto now = chrono::system_clock::now();
